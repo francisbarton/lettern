@@ -8,6 +8,14 @@
 \description{
 This constructs "words" based on weighted sampling from letter and ngram frequency data in English, as summarised by Peter Norvig.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/francisbarton/lettern}
+  \item Report bugs at \url{https://github.com/francisbarton/lettern/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Fran Barton \email{fbarton@alwaysdata.net}
 
