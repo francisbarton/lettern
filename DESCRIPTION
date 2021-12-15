@@ -1,0 +1,24 @@
+Package: lettern
+Title: Makes Nonsense Words Based on English Letter Frequency Data
+Version: 0.0.1
+Authors@R: 
+    person("Fran", "Barton", , "fbarton@alwaysdata.net", role = c("aut", "cre"))
+Description: This constructs "words" based on weighted sampling from letter and ngram frequency data in English, as summarised by Peter Norvig.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    dplyr,
+    magrittr,
+    purrr,
+    rlang,
+    rvest,
+    stringr,
+    tidyr,
+    utils
+Depends: 
+    R (>= 2.10)
+LazyData: true
+URL: https://github.com/francisbarton/lettern
+BugReports: https://github.com/francisbarton/lettern/issues
