@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Fran Barton \email{fbarton@alwaysdata.net}
+\strong{Maintainer}: Fran Barton \email{fbarton@alwaysdata.net} (\href{https://orcid.org/0000-0002-5650-1176}{ORCID})
 
 }
 \keyword{internal}

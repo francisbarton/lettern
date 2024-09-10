@@ -2,9 +2,6 @@
 "_PACKAGE"
 
 ## usethis namespace: start
-#' @importFrom magrittr %>%
-#' @importFrom rlang .data
+#' @importFrom dplyr pick
 ## usethis namespace: end
 NULL
-
-utils::globalVariables(c("."))
